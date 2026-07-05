@@ -20,6 +20,14 @@ This repository helps teams define and manage:
 - resilience testing
 - post-incident learning
 
+## How To Use This Repo
+
+1. Read the framework overview.
+2. Review the recovery validation matrix.
+3. Review the DR operating model and recovery tier model.
+4. Use the playbooks and templates to operationalize recovery.
+5. Track tests, approvals, and lessons learned over time.
+
 ## Core Content
 
 - [Framework Overview](docs/framework-overview.md)
@@ -57,11 +65,3 @@ This repository helps teams define and manage:
 - [Bibliography](references/bibliography.md)
 - [Research Links](publications/research-links.md)
 - [Impact Metrics](evidence/impact-metrics.md)
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the recovery validation matrix.
-3. Review the DR operating model and recovery tier model.
-4. Use the playbooks and templates to operationalize recovery.
-5. Expand testing, evidence, and approval workflows next.
