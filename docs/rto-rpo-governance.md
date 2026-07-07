@@ -10,6 +10,7 @@ RTO/RPO governance defines how recovery targets are set, reviewed, approved, and
 - review targets on a fixed cadence
 - validate targets through testing
 - escalate unrealistic targets
+- document the owner for each target
 
 ## Questions To Ask
 
@@ -24,3 +25,7 @@ RTO/RPO governance defines how recovery targets are set, reviewed, approved, and
 - approval record
 - test results
 - exception log
+
+## Outcome
+
+RTO/RPO governance should make targets realistic, reviewable, and tied to a named recovery owner.

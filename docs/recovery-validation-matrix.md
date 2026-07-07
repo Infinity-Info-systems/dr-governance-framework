@@ -43,6 +43,10 @@ Use this matrix to confirm that each workload has a realistic recovery target, a
 - exception approval path
 - executive escalation path
 
+## Validation Rule
+
+No recovery target should be treated as trustworthy unless it has been validated against a real test or a clearly documented equivalent.
+
 ## Example Matrix
 
 | Workload | Criticality | RTO | RPO | Test Status | Approval Status |
@@ -66,6 +70,7 @@ Recommended cadence:
 - align test frequency with criticality tier
 - track exceptions with owner and due date
 - capture lessons learned in the post-DR template
+- keep validation evidence with the recovery record
 
 ## Related Artifacts
 

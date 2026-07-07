@@ -18,3 +18,8 @@ This structure defines who owns recovery decisions, who reviews the plans, and h
 - recovery tiers are approved
 - exceptions are time-bound
 - tests have documented outcomes
+- approvals are traceable to a named reviewer
+
+## Governance Outcome
+
+The structure should make recovery decision-making clear, timely, and evidence-based.

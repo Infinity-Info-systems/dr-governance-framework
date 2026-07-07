@@ -18,3 +18,7 @@
 | Action | Owner | Due Date | Status |
 | --- | --- | --- | --- |
 |  |  |  |  |
+
+## Learning Rule
+
+If the lesson does not change the next test or recovery plan, it has not been captured well enough.

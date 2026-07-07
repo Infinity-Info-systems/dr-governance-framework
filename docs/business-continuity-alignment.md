@@ -10,6 +10,7 @@ Business continuity alignment connects recovery design to business priorities, c
 - business impact
 - recovery expectations
 - continuity dependencies
+- regulatory expectations
 
 ## Questions To Ask
 
@@ -24,3 +25,7 @@ Business continuity alignment connects recovery design to business priorities, c
 - critical service map
 - dependency notes
 - business impact assessment
+
+## Use
+
+Use this page to show how recovery design supports real business continuity priorities.

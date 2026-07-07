@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for disaster recovery governance, recovery tiers, and failover operations.
+Use it to move from the overall framework to the exact recovery artifact you need.
 
 ## Entry Points
 
@@ -36,6 +37,17 @@ This index organizes the repo into a front door for disaster recovery governance
 - [Research Links](../publications/research-links.md)
 - [Impact Metrics](../evidence/impact-metrics.md)
 
+## Reading Order
+
+1. Framework overview
+2. DR operating model
+3. Recovery validation matrix
+4. Business continuity alignment
+5. RTO/RPO governance
+6. Failover orchestration
+7. Resilience testing
+
 ## Shared Direction
 
 Use the same section structure as the other core repos so the ecosystem stays consistent and easy to navigate.
+Keep each page short, operational, and traceable to evidence.

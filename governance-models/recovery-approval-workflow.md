@@ -11,6 +11,7 @@ The approval workflow defines how recovery targets and recovery designs move thr
 - review RTO/RPO
 - approve or reject
 - track exceptions
+- record review evidence
 
 ## Output
 
@@ -18,3 +19,7 @@ The approval workflow defines how recovery targets and recovery designs move thr
 - conditional approval
 - exception
 - follow-up action
+
+## Use
+
+Use this workflow to keep recovery targets and plans moving through review with traceability.

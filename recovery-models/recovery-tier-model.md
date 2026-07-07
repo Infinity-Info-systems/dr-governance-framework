@@ -15,3 +15,8 @@ The recovery tier model maps criticality to recovery intensity, test depth, and 
 
 - align RTO/RPO to business needs
 - determine validation cadence
+- explain the recovery intensity expected for each workload tier
+
+## Outcome
+
+The tier model should translate business criticality into the right recovery rigor and response expectations.

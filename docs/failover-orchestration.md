@@ -11,6 +11,7 @@ Failover orchestration describes how recovery actions are coordinated during an 
 - execution
 - validation
 - communication
+- rollback readiness
 
 ## Questions To Ask
 
@@ -25,3 +26,7 @@ Failover orchestration describes how recovery actions are coordinated during an 
 - communication plan
 - validation evidence
 - rollback plan
+
+## Use
+
+Use this page to explain how failover should be coordinated, validated, and reversed if needed.

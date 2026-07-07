@@ -19,3 +19,7 @@
 - test date
 - outcome
 - open items
+
+## Recovery Rule
+
+Each application recovery plan should be specific enough to test and review without extra interpretation.

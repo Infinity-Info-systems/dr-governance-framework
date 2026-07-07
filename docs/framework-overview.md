@@ -3,6 +3,7 @@
 ## What This Framework Does
 
 This framework gives organizations a repeatable way to govern recovery objectives, test readiness, and approve failover behavior across cloud and hybrid environments.
+It gives the team a practical way to turn recovery intent into tested, owned, and approved behavior.
 
 ## What It Covers
 
@@ -28,6 +29,11 @@ This framework gives organizations a repeatable way to govern recovery objective
 - tests are executed on a schedule
 - approvals are traceable
 - lessons learned are captured and reused
+- failback is treated as seriously as failover
+
+## Practical Use
+
+Use this framework when you need to explain how recovery confidence is governed and verified over time.
 
 ## Outputs
 

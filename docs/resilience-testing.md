@@ -11,6 +11,7 @@ Resilience testing proves that recovery plans work and exposes gaps before a rea
 - full failover
 - failback
 - dependency validation
+- rehearsal of decision points
 
 ## Questions To Ask
 
@@ -25,3 +26,7 @@ Resilience testing proves that recovery plans work and exposes gaps before a rea
 - test results
 - remediation actions
 - repeat-test evidence
+
+## Testing Outcome
+
+Resilience testing should increase confidence and expose gaps before a real event does.

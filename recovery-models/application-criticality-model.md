@@ -13,6 +13,10 @@ This model helps classify applications by business criticality so recovery treat
 
 ## Use
 
+Use this model to decide which applications need tighter recovery governance, testing, and approval rigor.
+
+## Use
+
 - set recovery expectations
 - determine test frequency
 - prioritize remediation

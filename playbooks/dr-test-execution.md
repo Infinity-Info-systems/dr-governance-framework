@@ -16,3 +16,8 @@ This playbook guides teams through a structured disaster recovery test.
 
 - capture evidence throughout the test
 - do not stop at pass/fail
+- record any unmet recovery assumption
+
+## Playbook Use
+
+Use this playbook to run recovery exercises in a way that produces evidence, not just a status update.

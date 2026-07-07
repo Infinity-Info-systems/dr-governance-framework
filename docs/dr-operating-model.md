@@ -11,6 +11,8 @@ The operating model defines how recovery objectives, tests, approvals, and remed
 - test planning
 - approval workflow
 - lessons learned
+- failover ownership
+- validation follow-up
 
 ## Operating Questions
 
@@ -26,3 +28,7 @@ The operating model defines how recovery objectives, tests, approvals, and remed
 - test schedule
 - approval record
 - lesson log
+
+## Operating Outcome
+
+The operating model should make it clear who owns recovery, how decisions are approved, and how gaps are closed.
