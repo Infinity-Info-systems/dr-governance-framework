@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for disaster recovery governance, recovery tiers, and failover operations.
 Use it to move from the overall framework to the exact recovery artifact you need.
+The order is arranged so readers move from governance framing into validation, then into the playbooks and templates that prove readiness.
 
 ## Entry Points
 
@@ -51,3 +52,4 @@ Use it to move from the overall framework to the exact recovery artifact you nee
 
 Use the same section structure as the other core repos so the ecosystem stays consistent and easy to navigate.
 Keep each page short, operational, and traceable to evidence.
+If a page does not help validate recovery, approve a tier, or execute a test, move that detail into a more specific artifact.

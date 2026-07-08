@@ -1,6 +1,7 @@
 # Recovery Validation Matrix
 
 This matrix connects application criticality, recovery objectives, testing, and approval steps into a single operational view.
+It is the place where recovery confidence becomes measurable.
 
 ## Purpose
 
@@ -55,6 +56,17 @@ No recovery target should be treated as trustworthy unless it has been validated
 | Internal Reporting | Medium | 8 hrs | 1 hr | Scheduled | Approved |
 | Batch Analytics | Low | 24 hrs | 4 hrs | Pending | Exception |
 
+## Figure
+
+```mermaid
+flowchart LR
+  A[Criticality] --> B[Recovery Objectives]
+  B --> C[Readiness]
+  C --> D[Testing]
+  D --> E[Approval]
+  E --> F[Confidence]
+```
+
 ## Operating Rhythm
 
 Recommended cadence:
@@ -71,6 +83,7 @@ Recommended cadence:
 - track exceptions with owner and due date
 - capture lessons learned in the post-DR template
 - keep validation evidence with the recovery record
+- keep the same validation logic across criticality tiers
 
 ## Related Artifacts
 
