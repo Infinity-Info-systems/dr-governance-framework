@@ -35,6 +35,7 @@ This repository helps teams define and manage:
 - [Multi-Cloud Governance Model](../multi-cloud-governance-model/README.md)
 - [Executive Technology Roadmaps](../executive-technology-roadmaps/README.md)
 - [Cloud Governance Assessment Toolkit](../cloud-governance-assessment-toolkit/README.md)
+- [MCGR Operating Model Index](../MCGR-Framework/docs/operating-model-index.md)
 
 ## Content Model
 
@@ -120,3 +121,12 @@ It helps answer:
 - use `src/` as the recovery registry and report layer
 - keep Markdown docs as the operating model and narrative layer
 - use the registry outputs to power dashboards or a future DR console
+
+## Front Door Pattern
+
+Use this repository as the DR spoke inside the MCGR family:
+
+1. Start with the MCGR hub for the executive story and ecosystem map.
+2. Use this repo for recovery governance, tiering, and validation logic.
+3. Link back to the hub when you need the wider operating-model context.
+4. Keep test plans, approvals, and lessons learned in the matching playbooks and templates.
