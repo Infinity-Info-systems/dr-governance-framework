@@ -114,3 +114,9 @@ It helps answer:
 - Which workloads need the strongest recovery posture?
 - What has been tested and approved?
 - Where are the gaps that still block confidence?
+
+## Codebase Direction
+
+- use `src/` as the recovery registry and report layer
+- keep Markdown docs as the operating model and narrative layer
+- use the registry outputs to power dashboards or a future DR console
