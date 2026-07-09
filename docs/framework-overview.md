@@ -6,6 +6,17 @@ This framework gives organizations a repeatable way to govern recovery objective
 It gives the team a practical way to turn recovery intent into tested, owned, and approved behavior.
 The framework is meant to reduce ambiguity during a real event and make recovery confidence easier to prove.
 
+## Recovery Flow
+
+```mermaid
+flowchart LR
+    A["Criticality"] --> B["Tiering"]
+    B --> C["Validation"]
+    C --> D["Approval"]
+    D --> E["Testing"]
+    E --> F["Lessons Learned"]
+```
+
 ## What It Covers
 
 - recovery governance
@@ -52,3 +63,13 @@ Use this framework when you need to explain how recovery confidence is governed 
 - governance structure
 - playbooks
 - recovery templates
+
+## Recovery Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Tiering | How important is the workload? | Recovery tier model |
+| Validation | Can the objectives be met? | Recovery validation matrix |
+| Approval | Who signs off? | Recovery approval workflow |
+| Execution | How is recovery tested? | Failover / failback playbooks |
+| Improvement | What needs to change? | Lessons learned template |

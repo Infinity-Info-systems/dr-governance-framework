@@ -6,6 +6,17 @@ This index organizes the repo into a front door for disaster recovery governance
 Use it to move from the overall framework to the exact recovery artifact you need.
 The order is arranged so readers move from governance framing into validation, then into the playbooks and templates that prove readiness.
 
+## Recommended Reading Path
+
+| Step | Page | Why |
+| --- | --- | --- |
+| 1 | Framework Overview | Understand the recovery model |
+| 2 | DR Operating Model | See ownership and decision flow |
+| 3 | Recovery Validation Matrix | Review readiness criteria |
+| 4 | RTO/RPO Governance | Confirm objectives and targets |
+| 5 | Failover Orchestration | Review execution paths |
+| 6 | Playbooks and templates | Operationalize the process |
+
 ## Entry Points
 
 - [Framework Overview](./framework-overview.md)
@@ -53,3 +64,12 @@ The order is arranged so readers move from governance framing into validation, t
 Use the same section structure as the other core repos so the ecosystem stays consistent and easy to navigate.
 Keep each page short, operational, and traceable to evidence.
 If a page does not help validate recovery, approve a tier, or execute a test, move that detail into a more specific artifact.
+
+## Shortcut View
+
+| Need | Best Starting Point |
+| --- | --- |
+| Assign recovery tier | Recovery Tier Model |
+| Validate objectives | Recovery Validation Matrix |
+| Approve a plan | Recovery Approval Workflow |
+| Execute a test | DR Test Execution |
